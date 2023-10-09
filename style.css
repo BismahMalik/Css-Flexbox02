@@ -32,7 +32,7 @@ ul {
     justify-content: center;
     flex-basis: 100%;
     padding: 10px;
-    margin-right: 3%;
+    margin-right: 6%;
 
 }
 
@@ -41,10 +41,14 @@ li {
     text-align: center;
 }
 
+.List {
+    margin-right: 5%;
+}
+
 .List li {
     flex-basis: 100%;
     text-align: center;
-    margin-right: 3%;
+    margin-right: 1%;
     padding: 10px;
 }
 
@@ -91,10 +95,17 @@ article h1 {
         gap: 5px;
         margin-left: 0%;
         justify-content: center;
-        align-content: center;
-    }
-    
 
-    
+    }
+
+    .Blush li {
+        margin-right: 10%;
+
+    }
+
+    .List {
+        margin-right: 9%;
+    }
+
 
 }
