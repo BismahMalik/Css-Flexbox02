@@ -85,13 +85,18 @@ article h1 {
     main {
         flex-direction: column;
     }
+
     ul {
-        
-        gap: 10px;
-    }
-    article{
+
+        gap: 5px;
         margin-left: 0%;
+        justify-content: center;
+        align-content: center;
     }
+    li{
+        margin: 5px 0;
+    }
+
     
 
 }
